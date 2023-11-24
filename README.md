@@ -3,8 +3,6 @@
 <img align="right" alt"Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*NgUtI3tYLhuq5Vy0.gif">
 
 
-<p align="left"> <a href="https://github.com/ulugbek1319"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="30" height="30" alt="github icon" /> This is my first github account. </a></p>
-
 <p align="left"> <a href="https://twitter.com/@shuxratovch_u" target="blank"><img src="https://img.shields.io/twitter/follow/@shuxratovch_u?logo=twitter&style=for-the-badge" alt="shuxratovch_u" /></a> </p>
 
 - 🌱 I’m currently learning **Html, Css, JavaScript, Sass, C++, Java**
