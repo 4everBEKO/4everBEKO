@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ulugbek Uraboyev</h1>
+<h1 align="center">Hi 👋, I'm Ulugbek Urazboyev</h1>
 <h3 align="center">Frontend developer</h3>
 <h4 align="center">Frontend started programming in February 2022.<br>
 A developer who wants to learn more about JavaScript and its React library.</h4>
