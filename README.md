@@ -12,7 +12,7 @@
   ![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,grafana,mongodb)
   
   ---  
-  ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4everBEKO&theme=transparent&exclude_repo=MoRent,Jobit&layout=donut&hide_border=true)
+  ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4everBEKo&theme=transparent&exclude_repo=MoRent,Jobit&layout=donut&hide_border=true)
   ![My stats](https://github-readme-stats.vercel.app/api?username=4everBEKO&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)
 
 </div>
