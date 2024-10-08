@@ -1,6 +1,7 @@
 <div align="center">
+<img width=65 height=20 align="right" src="https://visitor-badge.laobi.icu/badge?page_id=4everBEKO.4everBEKO" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=200&center=true&vCenter=true&width=650&height=70&lines=What's+up!;My+name+is+Ulug'bek;Check+out+the+cool+stuff+I've+built)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=200&center=true&vCenter=true&width=650&lines=What's+up!;My+name+is+Ulug'bek;Check+out+the+cool+stuff+I've+built)](https://git.io/typing-svg)
   
   
   ![My Skills](https://skillicons.dev/icons?i=scss,bootstrap,tailwind,js,react,ts,next,mui) 
@@ -22,7 +23,7 @@
 ---
 
   
-<img width=1 height=1 align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jacastanon01.jacastanon01" />
+<img width=1 height=1 align="right" src="https://visitor-badge.laobi.icu/badge?page_id=4everBEKO.4everBEKO" />
 <div align="center"> 
   <a href="mailto:ulugbekorozboyev2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
