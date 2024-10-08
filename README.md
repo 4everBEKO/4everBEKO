@@ -1,5 +1,6 @@
-<div align="center">
 <img width=65 height=20 align="right" src="https://visitor-badge.laobi.icu/badge?page_id=4everBEKO.4everBEKO" />
+<br>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=200&center=true&vCenter=true&width=650&lines=What's+up!;My+name+is+Ulug'bek;Check+out+the+cool+stuff+I've+built)](https://git.io/typing-svg)
   
