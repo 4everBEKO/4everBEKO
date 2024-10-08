@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=100&center=true&vCenter=true&repeat=false&random=false&width=684&height=91&lines=%F0%9F%92%AA+What's+up!;My+name+is+Ulug'bek;Check+out+the+cool+stuff+I've+built)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=200&center=true&vCenter=true&width=650&height=70&lines=What's+up!;My+name+is+Ulug'bek;Check+out+the+cool+stuff+I've+built)](https://git.io/typing-svg)
   
   
   ![My Skills](https://skillicons.dev/icons?i=scss,bootstrap,tailwind,js,react,ts,next,mui) 
