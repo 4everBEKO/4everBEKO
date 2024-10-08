@@ -8,8 +8,8 @@
   ![My Skills](https://skillicons.dev/icons?i=python,postgres,sqlite,flask,nodejs,mongodb)
   
   ---  
-  ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacastanon01&theme=transparent&exclude_repo=MoRent,Jobit&layout=donut&hide_border=true)
-  ![My stats](https://github-readme-stats.vercel.app/api?username=jacastanon01&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)
+  ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4everBEKO&theme=transparent&exclude_repo=MoRent,Jobit&layout=donut&hide_border=true)
+  ![My stats](https://github-readme-stats.vercel.app/api?username=4everBEKO&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)
 
 </div>
 
