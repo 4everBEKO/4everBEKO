@@ -17,27 +17,31 @@
 ## 📚 About Me
 
 - 🔭 Currently working on building modern web and mobile apps.
-- 🌱 Learning **Flutter** and exploring **Microservices**.
+- 🌱 Learning **Php**.
 - 👯 Open to collaboration, especially in **Open Source** projects.
 - 💬 Ask me anything tech-related!
 - ⚡ Fun fact: Every project I work on feels like a mini-adventure. 🚀
 
-- 🌱 Enjoy working with React
-- 👯 Looking to collaborate on projects that can make a real-world impact and contribute to open source projects I believe in
-- 🤔 Always eager to help others in their journey while I continue to define mine
 ---
 
   
-<img width=1 height=1 align="right" src="https://visitor-badge.laobi.icu/badge?page_id=4everBEKO.4everBEKO" />
-<div align="center"> 
-  <a href="mailto:ulugbekorozboyev2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<!--   <a href="www.linkedin.com/in/ulugbek-urozboyev-141632271" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> -->
-  <a href="https://t.me/ulugbek_1319" target="_blank">
-     <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> 
-  </a>
-</div>
+## 🔗 Connect With Me
+
+- ✉️ **Email:** [ulugbekorozboyev2@gmail.com](mailto:ulugbekorozboyev2@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ulugbek-urozboyev-141632271](https://www.linkedin.com/in/ulugbek-urozboyev-141632271/)
+- 📷 **Telegram:** [@ulugbek_1319](https://t.me/ulugbek_1319)
+- 📸 **Instagram:** [https://instagram.com/shuxratovch_u](https://www.instagram.com/shuxratovch_u/)
+  
+
+---
+
+### Thank you for visiting my profile! 😊
+
+
+<h1>My Github contributions :</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.svg">
+</picture>
 
