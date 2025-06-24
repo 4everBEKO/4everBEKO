@@ -12,12 +12,16 @@
   ![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,grafana,mongodb)
   
   ---  
-  ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4everBEKo&theme=transparent&exclude_repo=MoRent,Jobit&layout=donut&hide_border=true)
-  ![My stats](https://github-readme-stats.vercel.app/api?username=4everBEKO&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)
-
 </div>
 
----
+## 📚 About Me
+
+- 🔭 Currently working on building modern web and mobile apps.
+- 🌱 Learning **Flutter** and exploring **Microservices**.
+- 👯 Open to collaboration, especially in **Open Source** projects.
+- 💬 Ask me anything tech-related!
+- ⚡ Fun fact: Every project I work on feels like a mini-adventure. 🚀
+
 - 🌱 Enjoy working with React
 - 👯 Looking to collaborate on projects that can make a real-world impact and contribute to open source projects I believe in
 - 🤔 Always eager to help others in their journey while I continue to define mine
