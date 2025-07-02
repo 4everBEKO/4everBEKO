@@ -28,7 +28,7 @@
 ## 🔗 Connect With Me
 
 - ✉️ **Email:** [ulugbekorozboyev2@gmail.com](mailto:ulugbekorozboyev2@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ulugbek-urozboyev-141632271](https://www.linkedin.com/in/ulugbek-urozboyev/)
+- 💼 **LinkedIn:** [linkedin.com/in/ulugbek-urozboyev](https://www.linkedin.com/in/ulugbek-urozboyev/)
 - 📷 **Telegram:** [@ulugbek_1319](https://t.me/ulugbek_1319)
 - 📸 **Instagram:** [https://instagram.com/shuxratovch_u](https://www.instagram.com/shuxratovch_u/)
   
